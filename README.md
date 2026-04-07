@@ -1,69 +1,78 @@
-🚀 Lumina AI — Adaptive Learning Platform
 
-Lumina AI is an AI-powered adaptive learning platform that personalizes the learning experience through intelligent content generation, dynamic quizzes, and gamification.
+🚀 Lumina AI — AI Course Generator & Adaptive Learning Platform
+
+Lumina AI is an AI-powered course generator that creates structured learning paths, dynamic content, and quizzes based on user input. It delivers a personalized and interactive learning experience with real-time evaluation and progress tracking.
 
 🔗 Live Demo: https://lumina-ai-cgzl.vercel.app/
 
 📂 GitHub Repo: https://github.com/richa-singh-8118/lumina-ai
 
-✨ Overview
+⚡ User Flow
 
-Traditional learning platforms follow a fixed structure, which often fails to adapt to individual student needs. Lumina AI addresses this by creating a personalized, interactive, and adaptive learning environment.
+Sign up → Enter topic → Generate course → Learn → Take quiz → Get score → Track progress
 
-The platform continuously adjusts content based on user interaction, helping learners stay engaged and improve more effectively.
-
-🎯 Key Features
-🧠 Adaptive Learning Engine
-Adjusts difficulty and content based on user progress
-🤖 AI-Generated Quizzes
-Dynamically creates questions to reinforce understanding
-📊 Progress Tracking
-Tracks user performance and highlights improvement areas
-🎮 Gamified Experience
-Encourages consistency through engagement mechanics
-⚡ Fast & Responsive UI
-Built for smooth performance across devices
+✨ Features
+🔐 Authentication System
+Secure user signup and login
+🧠 AI Course Generator
+Generate structured courses instantly by entering any topic
+📚 Dynamic Content Generation
+AI generates learning material based on user input
+📝 Quiz Generation & Evaluation
+Interactive quizzes with real-time scoring and feedback (true/false responses)
+📊 Dashboard
+Track progress, streaks, and activity
+🏆 Rankings System
+Compare user performance and engagement
+👨‍👩‍👧 Parental Controls
+Monitor student activity and learning progress
+⚙️ Settings & Personalization
+Customize the user experience
 🧩 Problem
 
-Most EdTech platforms:
+Most learning platforms are:
 
-Use a one-size-fits-all approach
-Lack real-time personalization
-Fail to keep students consistently engaged
+Unstructured
+Not personalized
+Time-consuming for users
 
-This leads to low retention and ineffective learning outcomes.
+Learners spend more time searching than actually learning.
 
 💡 Solution
 
-Lumina AI introduces:
+Lumina AI:
 
-Personalized learning paths
-Continuous feedback through quizzes
-Adaptive difficulty based on performance
-Engaging, interactive learning flow
+Instantly generates structured courses
+Reinforces learning through quizzes
+Provides feedback and scoring
+Makes learning interactive and personalized
 ⚙️ How It Works
-User selects or starts a learning topic
-System tracks interactions and performance
-AI generates quizzes and adjusts difficulty
-Progress data is used to refine future content
+User signs up / logs in
+Enters a topic (e.g., “History”)
+AI generates a structured course
+User studies the content
+Takes quizzes
+Gets score and feedback
+Tracks progress via dashboard
 🛠️ Tech Stack
 Frontend: React (Vite), TypeScript
 Styling: CSS
 Deployment: Vercel
-AI Integration: AI-assisted logic for quiz/content generation (extensible to LLM APIs)
+AI Integration: AI-assisted content and quiz generation
 
+🔮 Future Improvements
+Advanced LLM integration for deeper personalization
+Adaptive quiz difficulty
+Real-time analytics dashboard
+Multi-language support
+🤝 Contributing
 
+Contributions are welcome! Feel free to fork and submit pull requests.
 
+📄 License
 
-🚀 Getting Started
-# Clone the repository
-git clone https://github.com/richa-singh-8118/lumina-ai.git
+MIT License
 
-# Navigate into the project
-cd lumina-ai
+👩‍💻 Author
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
+Richa Singh
